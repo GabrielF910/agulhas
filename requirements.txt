@@ -1,0 +1,6 @@
+streamlit
+openpyxl
+gspread
+Pillow
+google-auth
+google-api-python-client
